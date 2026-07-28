@@ -29,12 +29,12 @@ Traducción al español del juego `Formula One: Built to Win` de NES.
 ⚠️ Asegúrate de usar **una ROM limpia**, sin cabecera modificada ni parches aplicados previamente. El parche podría fallar si no se usa la ROM exacta.
 
 ## Capturas de pantalla
-![Menú principal](https://images2.imgbox.com/c2/07/Atpu5NMa_o.png)
-![Mini Cooper](https://images2.imgbox.com/85/1c/yUjKRO00_o.png)
-![Opciones en Ciudad](https://images2.imgbox.com/c0/5e/JQwTmpRE_o.png)
-![Oficina de carreras](https://images2.imgbox.com/3e/37/xgb7nG1V_o.png)
-![Formula 1](https://images2.imgbox.com/b4/85/I0hgPEcV_o.png)
-![Tragamonedas](https://images2.imgbox.com/35/8e/CuX53VsP_o.png)
-![Invitacion a F1](https://images2.imgbox.com/18/02/tUI3P9xP_o.png)
-![Mejoras del F1](https://images2.imgbox.com/63/4a/wYmKAEWC_o.png)
-![Menu de F1](https://images2.imgbox.com/af/c0/9zZmBA5L_o.png)
+![Menú principal](https://i.ibb.co/8D3GVFNk/1.png)
+![Mini Cooper](https://i.ibb.co/G4tmnZCC/2.png)
+![Opciones en Ciudad](https://i.ibb.co/HLrxQtrC/3.png)
+![Oficina de carreras](https://i.ibb.co/NgDdJYs4/4.png)
+![Formula 1](https://i.ibb.co/qFD2DcT5/5.png)
+![Tragamonedas](https://i.ibb.co/HSr4rPs/6.png)
+![Invitacion a F1](https://i.ibb.co/j9NVns9K/7.png)
+![Mejoras del F1](https://i.ibb.co/HLvT1n37/8.png)
+![Menu de F1](https://i.ibb.co/yBbYWDWS/9.png)
